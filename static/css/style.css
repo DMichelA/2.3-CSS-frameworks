@@ -1,0 +1,31 @@
+input[type=text], input[type=date] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.boton{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border-radius: 6px;
+    border: 2px solid #ffffff;
+    width: 110px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+  }
+  .boton:hover{
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.control{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
